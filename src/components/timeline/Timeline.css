@@ -1,0 +1,26 @@
+.timeline{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.timeline__card{
+
+}
+.timeline__row{
+    background: #db2777;
+   width: 100%;
+    margin: auto;
+  
+}
+
+.rw-body{
+    border-top: 1px solid #555;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.icon{
+    font-size: 1.4rem ;
+    color: #db2777;
+}

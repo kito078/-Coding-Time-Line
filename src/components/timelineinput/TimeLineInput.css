@@ -1,0 +1,21 @@
+.card__form{
+    max-width: 600px;
+    margin: 2em auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card__form input{
+    width: 100%;
+    border-radius: 10px;
+    border:1px solid green;
+    outline: 0;
+    margin: 1rem  1rem 1rem;
+    padding: 0.5rem 0.7rem;
+}
+
+.form-control.invalid input{
+    background:  #e5b0c8;
+    border:1px solid #db2777;
+    
+
+}
